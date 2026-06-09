@@ -108,10 +108,10 @@
 </a>
 
 <a href="https://dharshan-hariharan.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel">
+<img src="">
 </a>
 
-<a href="mailto:dharshanhariharan2468@gmail.com">
+<a href="mailto:tenetshiyam@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
 </p>
